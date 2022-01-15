@@ -38,15 +38,6 @@ class RedisJson implements RedisJsonInterface
 
     public function __construct(RedisClientInterface $redisClient)
     {
-        /*$this->setModuleVersion($redisClient->rawCommand('MODULE', ['LIST']));
-        if ($this->moduleVersion['major'] < 2) {
-            throw new RedisJsonModuleVersionNotSupported(
-                sprintf(
-                    'This library does not support RedisJSON Module version lower than 2. You use %d',
-                    $this->moduleVersion['major']
-                )
-            );
-        }*/
         $this->redisClient = $redisClient;
     }
 
