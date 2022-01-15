@@ -1,5 +1,5 @@
 {
-    "name": "mkorkmaz/redislabs-rejson",
+    "name": "mkorkmaz-updated/redislabs-rejson-updated",
     "description": "Redislabs RedisJSON aka ReJSON Module Client for PHP that supports Predis and PhpRedis",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Mehmet Korkmaz",
             "email": "mehmet@mkorkmaz.com"
+        },
+        {
+            "name": "Ferah Abdelraouf",
+            "email": "abdelraoufferrah@gmail.com"
         }
     ],
     "minimum-stability": "stable",
