@@ -1,5 +1,5 @@
 {
-    "name": "mkorkmaz-updated/redislabs-rejson-updated",
+    "name": "mkorkmaz-updated/redislabs-rejson",
     "description": "Redislabs RedisJSON aka ReJSON Module Client for PHP that supports Predis and PhpRedis",
     "type": "library",
     "license": "MIT",
